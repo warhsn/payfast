@@ -6,7 +6,7 @@
             "email": "warren@billow.co.za"
         }
     ],
-    "description": "Laravel 5.4+|6+|7+|8+ package for processing ITN payments through payfast.co.za",
+    "description": "Laravel 5.4+ package for processing ITN payments through payfast.co.za",
     "keywords": [
         "package",
         "laravel",

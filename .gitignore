@@ -3,3 +3,5 @@ composer.lock
 .DS_Store
 .idea
 index.php
+/workbench
+testbench.yaml
